@@ -1,0 +1,17 @@
+.container {
+    text-align: center;
+}
+
+.container p {
+    width: 820px;
+    margin: auto;
+    line-height: 40px;
+    font-size: 25px;
+    font-weight: 300;
+}
+
+.border {
+    max-width: 30%;
+    border: unset;
+}
+

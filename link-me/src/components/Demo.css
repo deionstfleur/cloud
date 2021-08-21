@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    padding-top: 110px;
+}
+
+.flex {
+    width: 30%;
+    margin: auto;
+}
+
+img {  border-radius: 20px; cursor: pointer;}
+
+
+.arrow {
+    padding: 10px;
+    margin: 10px;
+    padding-top: 20px;
+    font-size: 30px;
+}

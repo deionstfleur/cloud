@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-linkme-dev-174044-authRole",
+      "UnauthRoleArn": "arn:aws:iam::908405625044:role/amplify-linkme-dev-174044-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::908405625044:role/amplify-linkme-dev-174044-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-linkme-dev-174044-deployment",
+      "UnauthRoleName": "amplify-linkme-dev-174044-unauthRole",
+      "StackName": "amplify-linkme-dev-174044",
+      "StackId": "arn:aws:cloudformation:us-east-1:908405625044:stack/amplify-linkme-dev-174044/1cd9a490-0136-11ec-b88e-12aa315776d7",
+      "AmplifyAppId": "doi78xudqr0bx"
+    },
+    "categories": {
+      "auth": {
+        "linkme067d5d70": {}
+      }
+    }
+  }
+}

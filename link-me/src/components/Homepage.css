@@ -1,0 +1,35 @@
+.containerr {
+    text-align: center;
+}
+
+.button {
+    position: absolute;
+}
+
+
+
+.main-title {
+    padding-top: 30px;
+    max-width: 90%;
+    position: absolute;
+    left: 10%;
+}
+
+.title{
+    max-width: 223px;
+    font-size: 68px;
+}
+
+@media screen and (min-width: 0px) and (max-width: 768px) {
+    .dt {
+        display: none;
+    }
+}
+
+
+@media screen and (min-width: 0px) and (max-width: 768px) {
+    img {
+        display: none;
+    }
+}
+
